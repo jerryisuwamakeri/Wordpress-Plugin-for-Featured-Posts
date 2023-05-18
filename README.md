@@ -2,7 +2,7 @@
 A Plugin to Show Wordpress Featured Posts
 <br>How to Install this Plugin:
 <br>👉Download the plugin:
-By Visiting the plugin's Plugin repository here <a href="https://github.com/jerryisuwamakeri/Wordpress-Plugin-for-Featured-Posts/blob/main/custom-featured-posts.zip"> Download Plugin Here</a><br>
+By Visiting the plugin's Plugin repository here <a href="https://github.com/jerryisuwamakeri/Wordpress-Plugin-for-Featured-Posts/blob/main/custom-featured-posts.zip">Download Plugin Here</a><br>
 <br>👉Locate the plugin you want to install and download it to your local machine.
 <br>👉The downloaded file will be in a zip format, such as plugin-name.zip.
 <br>👉Log in to your WordPress admin panel:
